@@ -1,0 +1,10 @@
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\bin\Debug\UninstallTaskmanager.exe.config
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\bin\Debug\UninstallTaskmanager.exe
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\bin\Debug\UninstallTaskmanager.pdb
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.csprojAssemblyReference.cache
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.Properties.Resources.resources
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.csproj.GenerateResource.cache
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.exe
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.pdb
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.Form1.resources
+C:\Users\meow9\source\repos\UninstallTaskmanager\UninstallTaskmanager\obj\Debug\UninstallTaskmanager.Form2.resources
